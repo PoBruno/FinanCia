@@ -43,6 +43,3 @@ AND (is_open_ended = TRUE OR (installments IS NOT NULL AND start_date + (install
 - Os comandos listam as transações e os cadastros iniciais.
 - A última query filtra transações recorrentes que ainda estão ativas em janeiro de 2025 (sem data final ou dentro do período de parcelas).
 
-Esse setup garante que você e a Tacy tenham uma visão completa das finanças! 🚀
-
-
